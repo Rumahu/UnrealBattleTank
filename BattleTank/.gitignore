@@ -5,13 +5,13 @@
 */DerivedDataCache
 */Intermediate
 */Saved
-BattleTank/Content/StarterContent/Textures
-BattleTank/Content/StarterContent/HDRI
-BattleTank/Content/StarterContent/Materials
-BattleTank/Content/StarterContent/Props/Materials
-BattleTank/Content/StarterContent/Shapes
-BattleTank/Content/StarterContent/Particles
-BattleTank/Content/StarterContent/Audio
+Content/StarterContent/Textures
+Content/StarterContent/HDRI
+Content/StarterContent/Materials
+Content/StarterContent/Props/Materials
+Content/StarterContent/Shapes
+Content/StarterContent/Particles
+Content/StarterContent/Audio
 
 
 # Visual Studio 2015 user specific files
